@@ -21,23 +21,6 @@ The **Face Recognition System** is an ML-based project that detects and classifi
   - **FaceNet** for generating facial embeddings.
   - **MTCNN** for face detection.
 
-### Results
-
-Here are some expected results when using the Face Recognition System:
-
-1. **Successful Prediction**:
-   - If a face is detected, the system will display the predicted identity.
-   - output:
-     ```
-     Predicted class
-     ```
-
-2. **No Face Detected**:
-   - If no face is detected in the image, the system will print:
-     ```
-     No face detected
-     ```
-
 ## How It Works
 
 The system is composed of several parts:
@@ -50,6 +33,8 @@ The system is composed of several parts:
    - Alternatively, in Colab, you can upload images and get predictions directly in the notebook.
 
 ---
+## Results
+
 ![image alt](https://github.com/dishadalvi02/Face_Recogination/blob/79a01789e18b7b39fe27da3df0247a31d65ed819/Results/Screenshot%202025-01-27%20134431.png)
 
 ![image alt](https://github.com/dishadalvi02/Face_Recogination/blob/79a01789e18b7b39fe27da3df0247a31d65ed819/Results/Screenshot%202025-01-27%20134710.png)
